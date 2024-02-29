@@ -1,0 +1,14 @@
+.hm-gradient { 
+  background-image: linear-gradient(to top, #f7e8eb 0%, #cbdaf1 99%, #d3e3fb 100%);
+
+}
+.navbar .dropdown-menu a:hover {
+  color: #616161 !important;
+}
+.darken-grey-text {
+  color: #2E2E2E; 
+}
+h1{
+  font-family: fantasy;
+  text-align: center;
+}
